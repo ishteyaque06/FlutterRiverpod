@@ -43,14 +43,4 @@ class UserModel {
 
   @override
   String toString() => 'UserModel(name: $name, email: $email, id: $id)';
-
-  @override
-  bool operator ==(covariant UserModel other) {
-    if (identical(this, other)) return true;
-
-    return other.name == name && other.email == email && other.id == id;
-  }
-
-  @override
-  int get hashCode => name.hashCode ^ email.hashCode ^ id.hashCode;
 }

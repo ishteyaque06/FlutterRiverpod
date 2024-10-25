@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
+//import 'package:fpdart/fpdart.dart';
 import 'package:riverpodtest/widgets/auth_gradient_button.dart';
 import 'package:riverpodtest/widgets/custom_field.dart';
+import '../core/repository/auth_repository.dart';
 
 class SignupPage extends StatefulWidget {
   const SignupPage({super.key});
@@ -59,7 +61,15 @@ class _SignupPageState extends State<SignupPage> {
               ),
               AuthGradientButton(
                 title: 'SignUp',
-                onTap: () {
+                onTap: () async {
+                  final resp = await AuthRepository().loginUser(
+                      email: emailController.text,
+                      password: passwordController.text);
+                  // final val = switch (resp) {
+                  //   Left(value: final l) => l,
+                  //   Right(value: final r) => r,
+                  // };
+                  // print(val);
                   print('hello');
                 },
               ),
