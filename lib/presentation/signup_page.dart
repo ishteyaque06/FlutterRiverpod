@@ -1,17 +1,19 @@
 import 'package:flutter/material.dart';
-//import 'package:fpdart/fpdart.dart';
+import 'package:flutter_riverpod/flutter_riverpod.dart';
+import 'package:riverpodtest/presentation/viewmodel/auth_view_model.dart';
 import 'package:riverpodtest/widgets/auth_gradient_button.dart';
 import 'package:riverpodtest/widgets/custom_field.dart';
 import '../core/repository/auth_repository.dart';
 
-class SignupPage extends StatefulWidget {
+//Converting it for Riverpod
+class SignupPage extends ConsumerStatefulWidget {
   const SignupPage({super.key});
 
   @override
-  State<SignupPage> createState() => _SignupPageState();
+  ConsumerState<SignupPage> createState() => _SignupPageState();
 }
 
-class _SignupPageState extends State<SignupPage> {
+class _SignupPageState extends ConsumerState<SignupPage> {
   final nameController = TextEditingController();
   final emailController = TextEditingController();
   final passwordController = TextEditingController();
@@ -27,55 +29,69 @@ class _SignupPageState extends State<SignupPage> {
 
   @override
   Widget build(BuildContext context) {
+    //Use Watch method to listen the state changes
+    final isLoading = ref.watch(authViewModelProvider)?.isLoading == true;
+    //use re.listen if want to show error or navigate to other page if success
+    ref.listen(authViewModelProvider, (_, next) {
+      next?.when(data: (data) {
+        // Navigate on success
+      }, error: (error, stacktrace) {
+        //Show Error Message
+      }, loading: () {
+        //Not needed as we can not return widget
+      });
+    });
     return Scaffold(
       appBar: AppBar(),
       body: Padding(
         padding: const EdgeInsets.symmetric(horizontal: 10.0),
-        child: Form(
-          key: formKey,
-          child: Column(
-            mainAxisAlignment: MainAxisAlignment.center,
-            children: [
-              const Text(
-                'SignUp',
-                style: TextStyle(fontSize: 40, fontWeight: FontWeight.bold),
+        child: isLoading
+            ? const Center(
+                child: CircularProgressIndicator.adaptive(),
+              )
+            : Form(
+                key: formKey,
+                child: Column(
+                  mainAxisAlignment: MainAxisAlignment.center,
+                  children: [
+                    const Text(
+                      'SignUp',
+                      style:
+                          TextStyle(fontSize: 40, fontWeight: FontWeight.bold),
+                    ),
+                    const SizedBox(
+                      height: 20,
+                    ),
+                    CustomField(
+                      hintText: 'Name',
+                      controller: nameController,
+                    ),
+                    CustomField(
+                      hintText: 'Email',
+                      controller: emailController,
+                    ),
+                    CustomField(
+                      hintText: 'Password',
+                      controller: passwordController,
+                      isObscure: true,
+                    ),
+                    const SizedBox(
+                      height: 15,
+                    ),
+                    AuthGradientButton(
+                      title: 'SignUp',
+                      onTap: () async {
+                        //Use ref.read option to call function
+                        await ref
+                            .read(authViewModelProvider.notifier)
+                            .loginUser(
+                                email: emailController.text,
+                                password: passwordController.text);
+                      },
+                    ),
+                  ],
+                ),
               ),
-              const SizedBox(
-                height: 20,
-              ),
-              CustomField(
-                hintText: 'Name',
-                controller: nameController,
-              ),
-              CustomField(
-                hintText: 'Email',
-                controller: emailController,
-              ),
-              CustomField(
-                hintText: 'Password',
-                controller: passwordController,
-                isObscure: true,
-              ),
-              const SizedBox(
-                height: 15,
-              ),
-              AuthGradientButton(
-                title: 'SignUp',
-                onTap: () async {
-                  final resp = await AuthRepository().loginUser(
-                      email: emailController.text,
-                      password: passwordController.text);
-                  // final val = switch (resp) {
-                  //   Left(value: final l) => l,
-                  //   Right(value: final r) => r,
-                  // };
-                  // print(val);
-                  print('hello');
-                },
-              ),
-            ],
-          ),
-        ),
       ),
     );
   }
