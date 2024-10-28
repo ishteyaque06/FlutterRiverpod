@@ -9,11 +9,12 @@ part 'auth_view_model.g.dart';
 
 @riverpod
 class AuthViewModel extends _$AuthViewModel {
-  final AuthRepository _authRepository = AuthRepository();
+  late AuthRepository _authRepository; //= AuthRepository();
   //Async value means three value which is loading,error and data
   //Initially we set to null
   @override
   AsyncValue<UserModel>? build() {
+    _authRepository = ref.watch(authRepositoryProvider);
     return null;
   }
 
@@ -28,7 +29,12 @@ class AuthViewModel extends _$AuthViewModel {
       Left(value: final l) => state =
           AsyncValue.error(l.message, StackTrace.current),
       //Changing state to Success
-      Right(value: final r) => state = AsyncValue.data(r),
+      Right(value: final r) => _success(r),
     };
+  }
+
+//Other way to check success data
+  AsyncValue<UserModel>? _success(UserModel data) {
+    return state = AsyncValue.data(data);
   }
 }

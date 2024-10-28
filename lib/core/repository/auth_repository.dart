@@ -4,6 +4,16 @@ import 'package:fpdart/fpdart.dart';
 import 'package:http/http.dart' as http;
 import 'package:riverpodtest/core/failure/failure.dart';
 import 'package:riverpodtest/model/user_model.dart';
+import 'package:riverpod_annotation/riverpod_annotation.dart';
+
+//Need to create ref for it bcz to initiate it ViewModel instead of directely
+//Another Way of Doing it is without extending it
+part 'auth_repository.g.dart';
+
+@riverpod
+AuthRepository authRepository(AuthRepositoryRef ref) {
+  return AuthRepository();
+}
 
 //Using dummy api
 class AuthRepository {
