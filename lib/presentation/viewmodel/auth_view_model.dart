@@ -23,7 +23,7 @@ class AuthViewModel extends _$AuthViewModel {
     state = const AsyncLoading();
     final response =
         await _authRepository.loginUser(email: email, password: password);
-    final val = switch (response) {
+    final _ = switch (response) {
       //Changing state to error
       Left(value: final l) => state =
           AsyncValue.error(l.message, StackTrace.current),

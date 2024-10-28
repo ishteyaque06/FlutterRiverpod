@@ -2,7 +2,7 @@
 // RiverpodGenerator
 // **************************************************************************
 
-String _$authViewModelHash() => r'c6c0255ae5c80af8f1da9b1cb628a2c0efd3d481';
+String _$authViewModelHash() => r'3e44ef76c79894b30b3518658f43abd5a50545ad';
 
 /// See also [AuthViewModel].
 @ProviderFor(AuthViewModel)

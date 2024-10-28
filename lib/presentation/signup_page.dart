@@ -3,7 +3,6 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:riverpodtest/presentation/viewmodel/auth_view_model.dart';
 import 'package:riverpodtest/widgets/auth_gradient_button.dart';
 import 'package:riverpodtest/widgets/custom_field.dart';
-import '../core/repository/auth_repository.dart';
 
 //Converting it for Riverpod
 class SignupPage extends ConsumerStatefulWidget {
