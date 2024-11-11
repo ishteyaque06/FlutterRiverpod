@@ -28,7 +28,7 @@ class MyApp extends ConsumerWidget {
     return MaterialApp(
       title: 'Flutter Demo',
       theme: AppTheme.darkTheme,
-      home: token == null ? const SignupPage() : const HomePage(),
+      home: HomePage(),
     );
   }
 }

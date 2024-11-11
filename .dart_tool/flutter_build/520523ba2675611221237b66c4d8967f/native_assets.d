@@ -1,0 +1,1 @@
+ /Users/ishteyaque.ahmad/Desktop/flutterTest/FlutterRiverpod/.dart_tool/flutter_build/520523ba2675611221237b66c4d8967f/native_assets.yaml: 

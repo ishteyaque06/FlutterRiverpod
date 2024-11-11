@@ -18,7 +18,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		dy5fhkMPInYs7PtAI/ZOxnEkHaw=
+		ypjHzX5k/3W5GpMy/DSspuPBoGc=
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>Frameworks/App.framework/App</key>
 		<data>
-		p0eizWbSjA0jiOt6hNJjA9LsqqM=
+		YMlf6EigqCd1eS219pzTDxvMjno=
 		</data>
 		<key>Frameworks/App.framework/Info.plist</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Frameworks/App.framework/_CodeSignature/CodeResources</key>
 		<data>
-		2v9WbUUpUWwAytSdqb22PIiY3W8=
+		c0pcEya0DKzT81iman1FyPZ6Lw0=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.bin</key>
 		<data>
@@ -70,7 +70,7 @@
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/NOTICES.Z</key>
 		<data>
-		MtGhqy1N83LymF+xVlvBDq1bNtY=
+		FRjJ4BNOhNVkwOhjwNhQArnVXyc=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/fonts/MaterialIcons-Regular.otf</key>
 		<data>
@@ -82,7 +82,7 @@
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/kernel_blob.bin</key>
 		<data>
-		GjoHaDS8n+v2FNylI1H/hQS46g4=
+		KZ6a/VqL8iJTgZPq1M6mNNC5Yjw=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -184,9 +184,399 @@
 		<data>
 		ipm8hg7aB3LzsfShJfpNR0QQ4hw=
 		</data>
+		<key>Frameworks/JWPlayerKit.framework/Assets.car</key>
+		<data>
+		e+7tDd5CN6JcXm4GpmNzHON+2D8=
+		</data>
+		<key>Frameworks/JWPlayerKit.framework/English.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			77jGLkdX77QZYKZzJQU2nQyz9j4=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/JWPlayerKit.framework/Info.plist</key>
+		<data>
+		F7oTXTHf/JYBVmrJJ0phmfPaBck=
+		</data>
+		<key>Frameworks/JWPlayerKit.framework/JS/jscontext.polyfill.js</key>
+		<data>
+		xcGDV9PtlWOg0K7IuEJhcQ9VmkU=
+		</data>
+		<key>Frameworks/JWPlayerKit.framework/JS/jwplayer.core.js</key>
+		<data>
+		dqCF6cc04/Gn4jDLkfTush8vuF0=
+		</data>
+		<key>Frameworks/JWPlayerKit.framework/JS/jwplayer.js</key>
+		<data>
+		E/A2gpylz711879PPuVgrNxwOd4=
+		</data>
+		<key>Frameworks/JWPlayerKit.framework/JS/jwpsrv.js</key>
+		<data>
+		zTYiCeYaNEAJoCDUORuu//R7HGI=
+		</data>
+		<key>Frameworks/JWPlayerKit.framework/JS/promise.js</key>
+		<data>
+		SWSOEpwnIbnxMROExtDdDlY0qVE=
+		</data>
+		<key>Frameworks/JWPlayerKit.framework/JS/provider.bridge.js</key>
+		<data>
+		PUXtp6YjxNQ7c2x1ETgsnhpLd2c=
+		</data>
+		<key>Frameworks/JWPlayerKit.framework/JS/vast.js</key>
+		<data>
+		67aTlDuFU5DO1QL7KkLsADsChlc=
+		</data>
+		<key>Frameworks/JWPlayerKit.framework/JWPlayerKit</key>
+		<data>
+		czqV7R4+KhqLVkB+2NnSS8Hmrzs=
+		</data>
+		<key>Frameworks/JWPlayerKit.framework/XIBS/AdControls.nib</key>
+		<data>
+		QABWaJZpCL0MsmPeQ7aR93D9Wcc=
+		</data>
+		<key>Frameworks/JWPlayerKit.framework/XIBS/AdMediaInterface.nib</key>
+		<data>
+		BGofbErE36hEw7EGPHi+UX1+KpU=
+		</data>
+		<key>Frameworks/JWPlayerKit.framework/XIBS/BackdropView.nib</key>
+		<data>
+		y99Z9siykXKJmHo2SIuQYTVE5Iw=
+		</data>
+		<key>Frameworks/JWPlayerKit.framework/XIBS/Branding.nib</key>
+		<data>
+		2Od7z3orDB52sIyWcoRM7UicPrE=
+		</data>
+		<key>Frameworks/JWPlayerKit.framework/XIBS/ErrorInterface.nib</key>
+		<data>
+		cp41XJUgjAOrjZJnKE0vdicCQrY=
+		</data>
+		<key>Frameworks/JWPlayerKit.framework/XIBS/FloatingInterface.nib</key>
+		<data>
+		Y3ND62G40l5L07JitU5JgyMjCRc=
+		</data>
+		<key>Frameworks/JWPlayerKit.framework/XIBS/Gallery.storyboardc/Info.plist</key>
+		<data>
+		RFBDnOe9E6k9MjtM+gLKxWqNgn0=
+		</data>
+		<key>Frameworks/JWPlayerKit.framework/XIBS/Gallery.storyboardc/UICollectionViewController-fGG-AE-QRC.nib/objects-12.3+.nib</key>
+		<data>
+		pfMbkWj7HY6FKgv/Na+/vmdkR1U=
+		</data>
+		<key>Frameworks/JWPlayerKit.framework/XIBS/Gallery.storyboardc/UICollectionViewController-fGG-AE-QRC.nib/runtime.nib</key>
+		<data>
+		pfMbkWj7HY6FKgv/Na+/vmdkR1U=
+		</data>
+		<key>Frameworks/JWPlayerKit.framework/XIBS/Gallery.storyboardc/UIViewController-YGd-jg-2kT.nib/objects-12.3+.nib</key>
+		<data>
+		EdW6l5B044K89mnQYieru8JT8Jc=
+		</data>
+		<key>Frameworks/JWPlayerKit.framework/XIBS/Gallery.storyboardc/UIViewController-YGd-jg-2kT.nib/runtime.nib</key>
+		<data>
+		EdW6l5B044K89mnQYieru8JT8Jc=
+		</data>
+		<key>Frameworks/JWPlayerKit.framework/XIBS/Gallery.storyboardc/YGd-jg-2kT-view-93J-aQ-g70.nib/objects-12.3+.nib</key>
+		<data>
+		KFdKYg5JxJb+g9L7mD62JOn9XKE=
+		</data>
+		<key>Frameworks/JWPlayerKit.framework/XIBS/Gallery.storyboardc/YGd-jg-2kT-view-93J-aQ-g70.nib/runtime.nib</key>
+		<data>
+		KFdKYg5JxJb+g9L7mD62JOn9XKE=
+		</data>
+		<key>Frameworks/JWPlayerKit.framework/XIBS/Gallery.storyboardc/fGG-AE-QRC-view-YRh-kC-JDX.nib/objects-12.3+.nib</key>
+		<data>
+		E2IXV5thIBT190mFyovCGgbtwcE=
+		</data>
+		<key>Frameworks/JWPlayerKit.framework/XIBS/Gallery.storyboardc/fGG-AE-QRC-view-YRh-kC-JDX.nib/runtime.nib</key>
+		<data>
+		1CV1Tz9vd5lGUM0GqH0dzh+6R98=
+		</data>
+		<key>Frameworks/JWPlayerKit.framework/XIBS/GalleryCountdownHeader.nib</key>
+		<data>
+		jluV4l8+56ULbgTE5rHKYPTCCWk=
+		</data>
+		<key>Frameworks/JWPlayerKit.framework/XIBS/LiveInterface.nib</key>
+		<data>
+		LCz9hGDEag8ZCrHDk9WCXv2s5MI=
+		</data>
+		<key>Frameworks/JWPlayerKit.framework/XIBS/LiveMediaInterface.nib</key>
+		<data>
+		u31YzQZDLnKTaKqXA+gJFsH4diM=
+		</data>
+		<key>Frameworks/JWPlayerKit.framework/XIBS/MenuItemCell.nib</key>
+		<data>
+		BvJaoFOf8qMtxZi0X5sYyvHuUM8=
+		</data>
+		<key>Frameworks/JWPlayerKit.framework/XIBS/NextUpCard.nib</key>
+		<data>
+		dgJl2vA+0kZI3rt3IlLL4zcoAjY=
+		</data>
+		<key>Frameworks/JWPlayerKit.framework/XIBS/VoDInterface.nib</key>
+		<data>
+		olhIF1sTijQ9h0VCoKkr1C1FtDs=
+		</data>
+		<key>Frameworks/JWPlayerKit.framework/XIBS/VoDMediaInterface.nib</key>
+		<data>
+		SkcH82VQ7xMEiY25klF3dcTlt9E=
+		</data>
+		<key>Frameworks/JWPlayerKit.framework/_CodeSignature/CodeResources</key>
+		<data>
+		7vnIIRZN0muU/6BZolMh41Lzv5E=
+		</data>
+		<key>Frameworks/JWPlayerKit.framework/ar.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			R4AancL9ETdb1lDBYd90otB+VcY=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/JWPlayerKit.framework/da.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			yFpcl4ht16Ql3x+eF/BBiAyyCO4=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/JWPlayerKit.framework/de.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			LwxJsAKoflo3E7rWAXKU0deJNXw=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/JWPlayerKit.framework/el.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			eiFtiiBuUPqqyhU7UFMt4TfX6Ow=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/JWPlayerKit.framework/en.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			N3xM1KfnMxtFpudjaPUz8Qome5o=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/JWPlayerKit.framework/es.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			XMslyfXI/qcWYgNdq88aSYmWWWM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/JWPlayerKit.framework/fi.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			uRNIue5Gv20NEQr82Z2iOwZvJ5s=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/JWPlayerKit.framework/fr.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			MUYRWg/zxSXoIUwl3KAmNOgyIS4=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/JWPlayerKit.framework/he.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			7A3PgTSnkZdRDqp1jX2IOw+dquc=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/JWPlayerKit.framework/id.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			CKbEpaIO0Qm47MYpu0yR/kpoJF8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/JWPlayerKit.framework/it.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			g8mMzJMIaOd8SHM2e3wQnBbEcIg=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/JWPlayerKit.framework/ja.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			1hzLnfYBL3Rw5Z1zTgfuVMFTQzY=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/JWPlayerKit.framework/ko.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			7beugr2+l1ZmgkgOz0yCoXK9hOM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/JWPlayerKit.framework/nb.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			0h5CP/lTqkYWCckj4CnAxuJJ4FM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/JWPlayerKit.framework/nl.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			oj82517MbcQ589FYu0ndFKATGkY=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/JWPlayerKit.framework/oc.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			4aPeF2vy5I3OIB7wlEA5iigwo5I=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/JWPlayerKit.framework/omsdk-v1.js</key>
+		<data>
+		urCbE0LYn/0TBad5Cvw/KhQyivA=
+		</data>
+		<key>Frameworks/JWPlayerKit.framework/pl.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			xryTq9L+XlKPwg0J/pE+QgmqGes=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/JWPlayerKit.framework/pt.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			rYNK38qFz4nIhyQtYK8DQ+dfePA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/JWPlayerKit.framework/ro.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			4sj1xJ6w24TyTMUrGXn+997CuTE=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/JWPlayerKit.framework/ru.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			aua9D/a2ty5UhDPCmte/w0ZxIvc=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/JWPlayerKit.framework/sv.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ZRMR+rRTVXi0wmOTCl6DQZeqbVM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/JWPlayerKit.framework/th.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			U+r4/bCxJT29ee4A+6VWMcFkS+U=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/JWPlayerKit.framework/tr.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			MyW6TOX31vuzkfvVx0AP30GpRx8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/JWPlayerKit.framework/vi.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			mPW7HqaN0Ikij+ag1CRK9tKfhxk=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/JWPlayerKit.framework/zh.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ORUHfqBT7uLh0Nf86fi34SrPao0=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/shared_preferences_foundation.framework/Info.plist</key>
+		<data>
+		PMm8h4fhkEICpCeWZOEN/tlO43Q=
+		</data>
+		<key>Frameworks/shared_preferences_foundation.framework/_CodeSignature/CodeResources</key>
+		<data>
+		SU7qF47tdXWTs5vTVJR2hdUWbGM=
+		</data>
+		<key>Frameworks/shared_preferences_foundation.framework/shared_preferences_foundation</key>
+		<data>
+		dNmO/bQVjq0kYnc0f9wxykga5P0=
+		</data>
+		<key>Frameworks/shared_preferences_foundation.framework/shared_preferences_foundation_privacy.bundle/Info.plist</key>
+		<data>
+		tTaOfXFz8iG1R/guCiXdDcJdwQ4=
+		</data>
+		<key>Frameworks/shared_preferences_foundation.framework/shared_preferences_foundation_privacy.bundle/PrivacyInfo.xcprivacy</key>
+		<data>
+		6uLTlq7fgHHWA8emYDf4ImHC+AY=
+		</data>
 		<key>Info.plist</key>
 		<data>
-		rp1Bs/9UEo++FaGsyTZ4PqlUEWY=
+		J1TfUx42+hTKLKBB635vcIPRiQg=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -194,11 +584,11 @@
 		</data>
 		<key>Runner.debug.dylib</key>
 		<data>
-		6aVOrcEDcVdP8/0wJ0FGZNW0EFM=
+		yvCaFU0qqwRwDolGX8yJwWpphRg=
 		</data>
 		<key>__preview.dylib</key>
 		<data>
-		u5G4vdD1cGLpqxtVqsojZQyGc1s=
+		oEspH5ftDRO1qb0n2ILCmjkKPOg=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -228,7 +618,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			h9IqTfR/scckWwVJgHCs0Y2Fd3Ajrsf4Lyfs0cy8tNk=
+			Vnsn1d5NujEVNnua848k1bZt9tv5I7bcISz8OyFbejA=
 			</data>
 		</dict>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
@@ -277,7 +667,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZewyiMxfBoRdDI/Qgynk7vxNAUmoNgsfDVLk1WeAp8o=
+			kQZR7IPNfBboMLEpd64Hdb0XNqmmtRibl38SxQwctrM=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/Info.plist</key>
@@ -291,7 +681,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3v9z+hxgXYw/Ajs5FLWw7uTBciiVqLT4R4NvsAvkqFc=
+			SvCs865oT5/VPZnVu+/ms1tNfXhkRLjWW3RbfQNUVK4=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.bin</key>
@@ -319,7 +709,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			eH0WBS/Rqj+Xj/ifDN1v0/73XCfI+QjAo+WtfyEImFY=
+			bRQkP2FJGww40jZPaClFoXMgLrByyac3dzH9hDuVBCU=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/fonts/MaterialIcons-Regular.otf</key>
@@ -340,7 +730,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			cAzQ3nVrVc7VOIuk0VmprAqYTm/saprIl6fSFHkDhcw=
+			6Prv55TZEV1h9r9PDfJkG8UVniIME+7Eso6iITHlUuA=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
@@ -518,18 +908,525 @@
 			wSU3Ai74GJkae/7UGnbY1q6WL/vA5lEax2Kl0IRef3w=
 			</data>
 		</dict>
+		<key>Frameworks/JWPlayerKit.framework/Assets.car</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			HF+0SFictinjSlskiUM2CUua2PcvwbOC5V80LcE8S9g=
+			</data>
+		</dict>
+		<key>Frameworks/JWPlayerKit.framework/English.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			7gNGCzmAf4DvcTHcwsB0I+jzWR1uS3lO7R6r9I3zmKY=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/JWPlayerKit.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			WvXTuk3dFqBnfiBhS4OZcI1dAouu2RCjkko54BohvSk=
+			</data>
+		</dict>
+		<key>Frameworks/JWPlayerKit.framework/JS/jscontext.polyfill.js</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			liXCAAenkJj9x7LDC/9yMYiUZQ7Xupgv8IcVKBVMFw4=
+			</data>
+		</dict>
+		<key>Frameworks/JWPlayerKit.framework/JS/jwplayer.core.js</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			MHWxSBkUMfqoX6WMOfSn4RwJuJrRBsQ0PfVguEMHjo4=
+			</data>
+		</dict>
+		<key>Frameworks/JWPlayerKit.framework/JS/jwplayer.js</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			fpFtLqDmNqZR7xmHRM/A+tDou5CXe7+ihyU64IiyCZI=
+			</data>
+		</dict>
+		<key>Frameworks/JWPlayerKit.framework/JS/jwpsrv.js</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			jY3jgp0jg2UKkwjxdccBf+bzpgw4iNbWHgifmxkUEyM=
+			</data>
+		</dict>
+		<key>Frameworks/JWPlayerKit.framework/JS/promise.js</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			s8CwQt9o9oiqjymNecHYoTofSOR3q3OlG/U6+4Dlzxs=
+			</data>
+		</dict>
+		<key>Frameworks/JWPlayerKit.framework/JS/provider.bridge.js</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Dnw6GO5blSw7UaQJiPjR/BlH8tx9I4nm09leMoqXlns=
+			</data>
+		</dict>
+		<key>Frameworks/JWPlayerKit.framework/JS/vast.js</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			GCFyEssDzQ3O1NIzLDi/r7g46vwGv/WNAN74aRtTpl0=
+			</data>
+		</dict>
+		<key>Frameworks/JWPlayerKit.framework/JWPlayerKit</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			+d9RF+qYuZdqOkBA891+JG2iMZxRzlXM6OkGqq19Q5A=
+			</data>
+		</dict>
+		<key>Frameworks/JWPlayerKit.framework/XIBS/AdControls.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			e7SK1dZbXQaGFcA86Li4PKQ2J/JKL2IbQHLtvsPsUEs=
+			</data>
+		</dict>
+		<key>Frameworks/JWPlayerKit.framework/XIBS/AdMediaInterface.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			l1aTXq5ik03IpAbvWcWbywJPefTR0BLHvw4pnMKSV7U=
+			</data>
+		</dict>
+		<key>Frameworks/JWPlayerKit.framework/XIBS/BackdropView.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			dQK0+eADFI+9qt9vgY+JF3+9tjacln0Q+hrjo4PdB8o=
+			</data>
+		</dict>
+		<key>Frameworks/JWPlayerKit.framework/XIBS/Branding.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			cYM/QeLFaRbKTM03bHmjsl8/vmxUQQq0Ecz1fh1s7L4=
+			</data>
+		</dict>
+		<key>Frameworks/JWPlayerKit.framework/XIBS/ErrorInterface.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			GJQ/eXFute8qAz40wMzGEEI5zmy/omWNxl3w6cJkPb4=
+			</data>
+		</dict>
+		<key>Frameworks/JWPlayerKit.framework/XIBS/FloatingInterface.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			1HEv+DRADZTcfNP6U5WJvOb3avF1uZWS3ODTdSo4I4s=
+			</data>
+		</dict>
+		<key>Frameworks/JWPlayerKit.framework/XIBS/Gallery.storyboardc/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			zKEIEB7Frb4pBabkbcKSXuFfRO/z736HngSo0gjn6ok=
+			</data>
+		</dict>
+		<key>Frameworks/JWPlayerKit.framework/XIBS/Gallery.storyboardc/UICollectionViewController-fGG-AE-QRC.nib/objects-12.3+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			2SuIWjoXBhnWENw33FsSzYCPFT/gtOrO9EC66TG0xiY=
+			</data>
+		</dict>
+		<key>Frameworks/JWPlayerKit.framework/XIBS/Gallery.storyboardc/UICollectionViewController-fGG-AE-QRC.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			2SuIWjoXBhnWENw33FsSzYCPFT/gtOrO9EC66TG0xiY=
+			</data>
+		</dict>
+		<key>Frameworks/JWPlayerKit.framework/XIBS/Gallery.storyboardc/UIViewController-YGd-jg-2kT.nib/objects-12.3+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Vyx1NnAixkVl2Ysg1q9wqsAju/+jAmzhEC6G94Nxi+I=
+			</data>
+		</dict>
+		<key>Frameworks/JWPlayerKit.framework/XIBS/Gallery.storyboardc/UIViewController-YGd-jg-2kT.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Vyx1NnAixkVl2Ysg1q9wqsAju/+jAmzhEC6G94Nxi+I=
+			</data>
+		</dict>
+		<key>Frameworks/JWPlayerKit.framework/XIBS/Gallery.storyboardc/YGd-jg-2kT-view-93J-aQ-g70.nib/objects-12.3+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			oeFGr0Sskd8OoAoTXkn5q31lQksJdfP8txSCfUgFbqI=
+			</data>
+		</dict>
+		<key>Frameworks/JWPlayerKit.framework/XIBS/Gallery.storyboardc/YGd-jg-2kT-view-93J-aQ-g70.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			oeFGr0Sskd8OoAoTXkn5q31lQksJdfP8txSCfUgFbqI=
+			</data>
+		</dict>
+		<key>Frameworks/JWPlayerKit.framework/XIBS/Gallery.storyboardc/fGG-AE-QRC-view-YRh-kC-JDX.nib/objects-12.3+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			G0h+68Fxnr6K6hjeHpGZFgSUJ+kLXqo7t2BiMEE4bj4=
+			</data>
+		</dict>
+		<key>Frameworks/JWPlayerKit.framework/XIBS/Gallery.storyboardc/fGG-AE-QRC-view-YRh-kC-JDX.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			PLm5GXQVo3UyDb6s/TryajZK9v2zbGXtW8Si7n2Km3E=
+			</data>
+		</dict>
+		<key>Frameworks/JWPlayerKit.framework/XIBS/GalleryCountdownHeader.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			fIKtTzavzGgtlm6r86XaDZ2OjKqDX3bdIvtVuxixVG4=
+			</data>
+		</dict>
+		<key>Frameworks/JWPlayerKit.framework/XIBS/LiveInterface.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			WSCj2pFm4SfmBApbUJwgvXkxmX4L2zEOVSCNQ+Y69Sg=
+			</data>
+		</dict>
+		<key>Frameworks/JWPlayerKit.framework/XIBS/LiveMediaInterface.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			cJI5lFNRbvqxDdPF2MhYCCpv7ul9H7+VqUISFJGolGo=
+			</data>
+		</dict>
+		<key>Frameworks/JWPlayerKit.framework/XIBS/MenuItemCell.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			3hKIzVH1yD/kdmnvflkai660sBoO1ZKbfAX3FPJq/oM=
+			</data>
+		</dict>
+		<key>Frameworks/JWPlayerKit.framework/XIBS/NextUpCard.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			hMWcr4K4uJoUmjomQWGObsQrJuhy2WfU/bUK0arG+Jo=
+			</data>
+		</dict>
+		<key>Frameworks/JWPlayerKit.framework/XIBS/VoDInterface.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			d5H1/inl9AWlmGcnIKqcpGvHOZqYifX4nZzpMWYFE9w=
+			</data>
+		</dict>
+		<key>Frameworks/JWPlayerKit.framework/XIBS/VoDMediaInterface.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			x13Xu1aNs98jbry67bDF0zoI2RLyOGUIRRzRCXWa1ZQ=
+			</data>
+		</dict>
+		<key>Frameworks/JWPlayerKit.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			0u4bxLcCMIMBWaa+aD7WFBFfOmXC0+LsuDR2NA2eW8I=
+			</data>
+		</dict>
+		<key>Frameworks/JWPlayerKit.framework/ar.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/TSiyikqw2L5kR2hnJzhkEEri5XsPHOsvC0zWaRCcT8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/JWPlayerKit.framework/da.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			iXSn7DFyxwbFpbUU7FJ1nkTFJ9bDc5JfzrdvibyyqQ4=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/JWPlayerKit.framework/de.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			uam992/p7w2LjmF5hsklWYiD6TJ6tDFO/Ld+a4ajy3U=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/JWPlayerKit.framework/el.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			pBildD4Uaeu81SFk4U6dw34XJRB7hhB3L00Lu358oaQ=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/JWPlayerKit.framework/en.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			nm3rADxe2ZGn6k9VweIpfmSFG1HdnSzkydiPkppOqhM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/JWPlayerKit.framework/es.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			m2JPVsA497+wxjnfObJUzePpd05Pley7Z6EgZVjs20w=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/JWPlayerKit.framework/fi.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			JQOVtDqb8GHVmbJDhdjHPk1/9affz6l+PeI5yjy0smg=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/JWPlayerKit.framework/fr.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			sPMZECpNUdborSHAgv5W87UmUfq+Yuuh/T8l0FoKrWk=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/JWPlayerKit.framework/he.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			gvTMqLVmbEIf0Ofy65IaYbK9AVDDY59KG6Zbj7q4Hh4=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/JWPlayerKit.framework/id.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			u1lrcMGBvC3ZNGb0xGQo/+4NwTctr4C2ctEBnBy4Mi8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/JWPlayerKit.framework/it.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Guqv3wS0j6Qw0AGsOarTpoyEEf9lqwqw04uhx/7r9YU=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/JWPlayerKit.framework/ja.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			qBEilPzHhHgO5ukdgQycuIPPqHZgWv+yTOy74z8b248=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/JWPlayerKit.framework/ko.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			cgCZXkN+yQNwrWK29U6V3B3XvfuHkWHau/Mthmi+s3w=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/JWPlayerKit.framework/nb.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			hbZ0NOpopEKWQ301aQy8XSZ54t2hQeO1IZefNLvMrKg=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/JWPlayerKit.framework/nl.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			uXyQ+1PDNVkRx/r7YfK/4ik1+0N4Gdkx30YvMcteLGA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/JWPlayerKit.framework/oc.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			duSU2ajqMaG19BHgk8uBEycTaZP5qR2fWCZQaxXg/e4=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/JWPlayerKit.framework/omsdk-v1.js</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			VMPZuE+LRRWlGyfMyr2wPLNE39Q1ryStQortDbg9GXY=
+			</data>
+		</dict>
+		<key>Frameworks/JWPlayerKit.framework/pl.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			5/iJ69Llli06bW8WtyVkhqnthrFGnVFVzgoQa5BDoxk=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/JWPlayerKit.framework/pt.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			6xyQZI0RrfW3Z/zCaa6el0qWh05h8uzeuRBtvzrI9b8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/JWPlayerKit.framework/ro.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Q3LIrHG+AvUJgPz1Yb5Z4DoKr02Uwr11Se97ARKWrNs=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/JWPlayerKit.framework/ru.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			q+nYGt/yOfab2QRSLFhNSrMbyb4XVIqlIr5UdBplswA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/JWPlayerKit.framework/sv.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			b6bEpFjMQPb6H/shrlAZSGscIe8rb6vcWlGh6R+e/r0=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/JWPlayerKit.framework/th.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			TINEdELbpG0bl3U1H/yXly+6tsqGUjE3rB5v3KOPnx4=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/JWPlayerKit.framework/tr.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Tai5PmnS85ITqooIV2SKTVDNZVjeaEPQG+l73MSRI30=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/JWPlayerKit.framework/vi.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			kop8BN2x4XdTo2WJCW3l86Xfo4vWxit1oy55vTpfbZk=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/JWPlayerKit.framework/zh.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			lt9vsCsCcRSEY+Ta9sKKYCPHr6KfUx0DztU+cyy3BMo=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/shared_preferences_foundation.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			TModGbDFI9N/BmMPiFrEydW+JQPOKQlwSStwFCbWqes=
+			</data>
+		</dict>
+		<key>Frameworks/shared_preferences_foundation.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Iwr00VtPGOufD4iZ921T3o2SuTmiKG0wrfr8wnHW9lk=
+			</data>
+		</dict>
+		<key>Frameworks/shared_preferences_foundation.framework/shared_preferences_foundation</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			n/YTiWmMefCQtBRWBCfU+5NIEOK49XjKsUtAYxn91v4=
+			</data>
+		</dict>
+		<key>Frameworks/shared_preferences_foundation.framework/shared_preferences_foundation_privacy.bundle/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			72VWaERTUi8yJzfuJ8ydR5QY7AjJNX9JYKGyaASK15k=
+			</data>
+		</dict>
+		<key>Frameworks/shared_preferences_foundation.framework/shared_preferences_foundation_privacy.bundle/PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			BWQouTi9VwGKYAGdFcPB7i+nJ/I2h1mLu9k0hIsYCxo=
+			</data>
+		</dict>
 		<key>Runner.debug.dylib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			gY34rAINL6VEIJVXH3qQGpykVz+B8SDW3ih4mahyapc=
+			TxsJW2LlQZZP9XWX0kDi7p444V3jm1XlsFk7IoO1TEQ=
 			</data>
 		</dict>
 		<key>__preview.dylib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			uewPGBamx97r1m2tRkS5Zuvush0SA1jG4kPQIQmsBsM=
+			9TuqZd9iVBn6KwXObwXXb8uXPtoNaK6BTqueXwE3EcY=
 			</data>
 		</dict>
 	</dict>

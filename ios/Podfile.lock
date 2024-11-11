@@ -1,0 +1,30 @@
+PODS:
+  - Flutter (1.0.0)
+  - JWPlayerKit (4.9.1)
+  - shared_preferences_foundation (0.0.1):
+    - Flutter
+    - FlutterMacOS
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - JWPlayerKit (= 4.9.1)
+  - shared_preferences_foundation (from `.symlinks/plugins/shared_preferences_foundation/darwin`)
+
+SPEC REPOS:
+  trunk:
+    - JWPlayerKit
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  shared_preferences_foundation:
+    :path: ".symlinks/plugins/shared_preferences_foundation/darwin"
+
+SPEC CHECKSUMS:
+  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
+  JWPlayerKit: f1b14210bc0d13db9a639eb0a72f8b01feec3f7b
+  shared_preferences_foundation: fcdcbc04712aee1108ac7fda236f363274528f78
+
+PODFILE CHECKSUM: 319e647577fcc05ef4a956daf18c62cd9dc734bc
+
+COCOAPODS: 1.15.2
