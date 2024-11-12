@@ -3,7 +3,6 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:riverpodtest/core/theme.dart';
 import 'package:riverpodtest/core/user_preferences/user_preferences.dart';
 import 'package:riverpodtest/presentation/home/home_page.dart';
-import 'package:riverpodtest/presentation/signup_page.dart';
 import 'package:riverpodtest/presentation/viewmodel/auth_view_model.dart';
 
 void main() async {
@@ -24,11 +23,11 @@ class MyApp extends ConsumerWidget {
   // This widget is the root of your application.
   @override
   Widget build(BuildContext context, WidgetRef ref) {
-    final token = ref.read(userPreferencesProvider).getToken();
+    // final token = ref.read(userPreferencesProvider).getToken();
     return MaterialApp(
       title: 'Flutter Demo',
       theme: AppTheme.darkTheme,
-      home: HomePage(),
+      home: const HomePage(),
     );
   }
 }
