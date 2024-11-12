@@ -6,7 +6,7 @@ import 'package:riverpodtest/core/video_player_provider/video_player.dart';
 import 'package:riverpodtest/native_ui/native_ui.dart';
 
 class HomePage extends ConsumerStatefulWidget {
-  HomePage({super.key});
+  const HomePage({super.key});
   @override
   ConsumerState<HomePage> createState() => _HomePageState();
 }
