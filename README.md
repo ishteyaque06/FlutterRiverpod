@@ -1,16 +1,38 @@
-# riverpodtest
+# Flutter Riverpod Architecture & Patterns POC 🚀
 
-A new Flutter project.
+A Proof of Concept (POC) demonstrating production-ready state management using **Riverpod**, clean architecture principles, design patterns, and native platform integration in Flutter.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+### 🏗️ Key Features & Architectural Highlights
 
-A few resources to get you started if this is your first Flutter project:
+This repository serves as a practical showcase for several core Flutter and software engineering concepts:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **State Management (Riverpod):** Clean UI-to-state separation using view models and specialized providers (e.g., video player state, user preferences).
+- **Design Patterns:** Pragmatic implementation of Creational Patterns like the **Factory Pattern** for modular component instantiation.
+- **Native Platform Integration:** Custom `native_ui` module demonstrating seamless bridge communication between Flutter and native platforms.
+- **Robust Error Handling:** Structured error boundary handling using dedicated core failure models.
+- **Theme & Palette Management:** Centralized design system configuration with custom themes and color palettes.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+### 📂 Project Structure
+
+```text
+lib/
+├── core/                       # Shared core utilities, configurations, and state
+│   ├── failure/                # Global failure and error handling models
+│   ├── repository/             # Core repository declarations
+│   ├── user_preferences/       # Local storage & user settings providers
+│   ├── video_player_provider/  # Custom Riverpod providers for video handling
+│   ├── pallete.dart            # Design system color definitions
+│   └── theme.dart              # App-wide light/dark themes
+├── factoryPattern/             # Implementation of Factory Creational Pattern
+├── model/                      # Data models and entities
+├── native_ui/                  # Platform-specific UI wrappers & platform channels
+├── presentation/               # UI Layer
+│   ├── home/                   # Home screen module
+│   ├── viewmodel/              # State presentation logic & Riverpod Notifiers
+│   └── signup_page.dart        # Authentication/Signup screen
+├── widgets/                    # Reusable custom UI components
+└── main.dart                   # Application entry point with ProviderScope
